@@ -7,7 +7,7 @@ packages:
 
 voice_assistant:
   # id: va
-  id: !extend va
+  # id: !extend va
   # micro_wake_word:
   # microphone:
   #   microphone: echo_microphone
